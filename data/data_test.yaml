@@ -1,0 +1,23 @@
+# dataset.yaml
+
+# 数据集路径
+path: . # 替换为实际的数据集路径
+train: images/train
+val: images/val
+test: images/test  # 可选
+
+# 类别名称
+names:
+  0: 'water'
+  1: 'cola'
+  2: 'sprite'
+  3: 'orange juice'
+  4: 'biscuit'
+  5: 'chip'
+  6: 'lays'
+  7: 'bread'
+  8: 'cookie'
+  9: 'handwash'
+  10: 'dishsoap'
+  11: 'shampoo'
+

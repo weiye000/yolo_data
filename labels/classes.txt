@@ -1,0 +1,12 @@
+water
+cola
+sprite
+orange juice
+biscuit
+chip
+lays
+bread
+cookie
+handwash
+dishsoap
+shampoo
